@@ -1,0 +1,39 @@
+span{
+    color: #4942E4;
+    font-family: Verdana, Geneva, 
+}
+.right{
+    display: flex;
+}
+.right h1{
+    font-family: Verdana, Geneva, ;
+    margin-left: 40px;
+    margin-top: 140px;   
+}
+.wave-header{        
+    margin-top: 70px;
+    position: relative;
+}
+.justify-content-left{
+    margin-right: 10rem;
+}
+.justify-content-right{
+    padding-top: 40px;  
+}
+.card{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 29px;
+    background-color: white;
+    box-shadow:2px 8px 8px rgba(0,0,0,0.8);
+
+}
+.card img{
+    width: 215px;
+    height: 200px;
+}
+.card h1{
+    text-align: center;
+    font-family: Verdana, Geneva, ;
+    margin-bottom: 40px;
+}
